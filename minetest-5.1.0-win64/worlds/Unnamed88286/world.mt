@@ -4,3 +4,4 @@ player_backend = sqlite3
 gameid = minimal
 enable_damage = true
 backend = sqlite3
+server_announce = false
