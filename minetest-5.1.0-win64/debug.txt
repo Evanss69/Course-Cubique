@@ -1,0 +1,129 @@
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 11:55:54: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 11:55:54: ERROR[Main]: In thread 1:
+2019-10-19 11:55:54: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 11:56:05: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 11:56:05: ERROR[Main]: In thread 1:
+2019-10-19 11:56:05: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 11:57:33: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 11:57:33: ERROR[Main]: In thread 1:
+2019-10-19 11:57:33: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 11:59:32: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 11:59:32: ERROR[Main]: In thread 1:
+2019-10-19 11:59:32: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 12:00:02: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 12:00:02: ERROR[Main]: In thread 1:
+2019-10-19 12:00:02: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 12:00:24: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 12:00:24: ERROR[Main]: In thread 1:
+2019-10-19 12:00:24: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 12:00:48: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 12:00:48: ERROR[Main]: In thread 1:
+2019-10-19 12:00:48: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 12:00:50: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 12:00:50: ERROR[Main]: In thread 1:
+2019-10-19 12:00:50: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-19 12:01:27: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-19 12:01:27: ERROR[Main]: In thread 1:
+2019-10-19 12:01:27: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-20 18:24:54: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-20 18:24:54: ERROR[Main]: In thread 1:
+2019-10-20 18:24:54: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-20 18:27:32: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-20 18:27:32: ERROR[Main]: In thread 1:
+2019-10-20 18:27:32: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-20 18:27:43: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-20 18:27:43: ERROR[Main]: In thread 1:
+2019-10-20 18:27:43: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-20 18:28:25: ERROR[Main]: An unhandled exception occurred: Audio: Global Initialization: Device Open
+2019-10-20 18:28:25: ERROR[Main]: In thread 1:
+2019-10-20 18:28:25: ERROR[Main]: /home/stefan/mt-build/build/minetest_64/minetest/src/main.cpp:e7: main: A fatal error occurred: Audio: Global Initialization: Device Open
+
+
+-------------
+  Separator
+-------------
+
+2019-10-20 18:55:29: ACTION[Main]: Yeah experimental loaded mods.
+2019-10-20 18:55:30: ACTION[Main]: World at [C:\Users\esain\OneDrive\Desktop\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2019-10-20 18:55:30: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:58871.
+2019-10-20 18:55:31: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2019-10-20 18:55:31: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2019-10-20 18:55:42: ACTION[Main]: Server: Shutting down
