@@ -127,3 +127,888 @@
 2019-10-20 18:55:31: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
 2019-10-20 18:55:31: ACTION[Server]: singleplayer joins game. List of players: singleplayer
 2019-10-20 18:55:42: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-06-24 11:26:46: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-24 11:27:40: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-24 11:27:40: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-24 11:27:40: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:61588.
+2020-06-24 11:27:42: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-24 11:27:42: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-24 11:27:52: ACTION[Main]: Server: Shutting down
+2020-06-24 11:28:20: ACTION[Main]: Installed package to C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\mods\mtimer
+2020-06-24 11:29:00: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-24 11:29:00: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-24 11:29:00: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:56462.
+2020-06-24 11:29:00: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-24 11:29:00: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-24 11:29:18: ACTION[Server]: player singleplayer (id=1, hp=10) punched LuaEntitySAO at (20.9747,10.6662,88.3533) (id=2, hp=1), damage=0
+2020-06-24 11:29:24: ACTION[Server]: player singleplayer (id=1, hp=10) punched LuaEntitySAO at (21.339,10.6662,87.3434) (id=3, hp=1), damage=0
+2020-06-24 11:29:29: ACTION[Server]: player singleplayer (id=1, hp=10) punched LuaEntitySAO at (21.4251,10.6662,86.9721) (id=4, hp=1), damage=0
+2020-06-24 11:29:35: ACTION[Server]: singleplayer places node default:torch at (20,11,89)
+2020-06-24 11:29:35: ACTION[Server]: singleplayer places node default:torch at (22,11,89)
+2020-06-24 11:29:36: ACTION[Server]: singleplayer places node default:torch at (22,11,88)
+2020-06-24 11:29:36: ACTION[Server]: singleplayer places node default:torch at (23,11,88)
+2020-06-24 11:29:36: ACTION[Server]: singleplayer activates default:torch
+2020-06-24 11:29:36: ACTION[Server]: singleplayer activates default:torch
+2020-06-24 11:29:37: ACTION[Server]: singleplayer places node default:torch at (21,11,87)
+2020-06-24 11:29:37: ACTION[Server]: singleplayer places node default:torch at (22,11,86)
+2020-06-24 11:29:37: ACTION[Server]: singleplayer places node default:torch at (21,11,86)
+2020-06-24 11:29:37: ACTION[Server]: singleplayer activates default:torch
+2020-06-24 11:29:37: ACTION[Server]: singleplayer activates default:torch
+2020-06-24 11:29:37: ACTION[Server]: singleplayer places node default:torch at (20,11,88)
+2020-06-24 11:29:38: ACTION[Server]: singleplayer places node default:torch at (20,11,87)
+2020-06-24 11:29:39: ACTION[Server]: singleplayer places node default:torch at (19,11,86)
+2020-06-24 11:29:39: ACTION[Server]: singleplayer places node default:torch at (20,11,86)
+2020-06-24 11:29:39: ACTION[Server]: attached node default:torch can not be placed at (20,11,86)
+2020-06-24 11:29:41: ACTION[Server]: singleplayer places node default:wood at (23,12,82)
+2020-06-24 11:29:51: ACTION[Server]: player singleplayer (id=1, hp=10) punched LuaEntitySAO at (21.6752,10.725,85.8) (id=5, hp=1), damage=0
+2020-06-24 11:31:46: ACTION[Server]: player singleplayer (id=1, hp=10) punched LuaEntitySAO at (21.2476,11.6662,85.3699) (id=7, hp=1), damage=0
+2020-06-24 11:31:48: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [nothing]
+2020-06-24 11:31:48: ACTION[Server]: singleplayer activates experimental:tester_tool_1
+2020-06-24 11:31:51: ACTION[Server]: singleplayer activates experimental:tester_tool_1
+2020-06-24 11:31:51: ACTION[Server]: singleplayer activates experimental:tester_tool_1
+2020-06-24 11:33:07: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-06-30 16:57:31: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-30 16:57:37: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-30 16:57:37: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-30 16:57:37: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:56296.
+2020-06-30 16:57:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 16:57:38: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 16:57:42: ACTION[Main]: Server: Shutting down
+2020-06-30 16:59:46: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 16:59:46: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:12: 'end' expected (to close 'function' at line 5) near '<eof>'
+2020-06-30 16:59:46: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 16:59:46: ACTION[Main]: Server: Shutting down
+2020-06-30 17:00:25: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:00:25: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:12: 'end' expected (to close 'function' at line 5) near '<eof>'
+2020-06-30 17:00:25: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:00:25: ACTION[Main]: Server: Shutting down
+2020-06-30 17:02:50: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:02:50: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:4: unexpected symbol near '}'
+2020-06-30 17:02:50: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:02:50: ACTION[Main]: Server: Shutting down
+2020-06-30 17:03:05: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:03:05: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:4: unexpected symbol near ')'
+2020-06-30 17:03:05: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:03:05: ACTION[Main]: Server: Shutting down
+2020-06-30 17:03:13: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:03:13: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:12: unexpected symbol near ')'
+2020-06-30 17:03:13: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:03:13: ACTION[Main]: Server: Shutting down
+2020-06-30 17:03:21: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:03:21: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:03:21: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:03:21: ERROR[Main]: stack traceback:
+2020-06-30 17:03:21: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:03:21: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:03:21: ACTION[Main]: Server: Shutting down
+2020-06-30 17:07:58: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:07:58: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:07:58: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:07:58: ERROR[Main]: stack traceback:
+2020-06-30 17:07:58: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:07:58: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:07:58: ACTION[Main]: Server: Shutting down
+2020-06-30 17:08:18: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:08:18: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:08:18: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:08:18: ERROR[Main]: stack traceback:
+2020-06-30 17:08:18: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:08:18: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:08:18: ACTION[Main]: Server: Shutting down
+2020-06-30 17:08:38: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:08:38: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:08:38: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:08:38: ERROR[Main]: stack traceback:
+2020-06-30 17:08:38: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:08:38: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:08:38: ACTION[Main]: Server: Shutting down
+2020-06-30 17:09:03: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:09:03: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:09:03: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:09:03: ERROR[Main]: stack traceback:
+2020-06-30 17:09:03: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:09:03: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:09:03: ACTION[Main]: Server: Shutting down
+2020-06-30 17:09:19: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:09:19: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:09:19: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:09:19: ERROR[Main]: stack traceback:
+2020-06-30 17:09:19: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:09:19: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:09:19: ACTION[Main]: Server: Shutting down
+2020-06-30 17:09:40: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:09:40: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:09:40: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:09:40: ERROR[Main]: stack traceback:
+2020-06-30 17:09:40: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:09:40: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:09:40: ACTION[Main]: Server: Shutting down
+2020-06-30 17:12:08: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-30 17:12:08: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-30 17:12:08: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:60687.
+2020-06-30 17:12:10: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 17:12:10: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 17:12:50: ACTION[Server]: CHAT: <singleplayer> MTIMER
+2020-06-30 17:13:14: ACTION[Server]: CHAT: <singleplayer> help
+2020-06-30 17:14:48: ACTION[Main]: Server: Shutting down
+2020-06-30 17:14:58: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-30 17:14:58: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-30 17:14:58: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:56397.
+2020-06-30 17:14:58: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 17:14:58: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 17:15:36: ACTION[Server]: CHAT: <singleplayer> mtimer
+2020-06-30 17:15:44: ACTION[Main]: Server: Shutting down
+2020-06-30 17:15:52: WARNING[Main]: Mod name conflict detected: "mtimer"
+2020-06-30 17:15:52: WARNING[Main]: Will not load: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mtimer
+2020-06-30 17:15:52: WARNING[Main]: Will not load: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mtimer-master
+2020-06-30 17:15:52: ERROR[Main]: ModError: Unresolved name conflicts for mods "mtimer".
+2020-06-30 17:15:52: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:15:52: ACTION[Main]: Server: Shutting down
+2020-06-30 17:15:59: ERROR[Main]: mod "moremesecons_igniter" has unsatisfied dependencies:  "fire"
+2020-06-30 17:15:59: ERROR[Main]: mod "mesecons_doors" has unsatisfied dependencies:  "doors"
+2020-06-30 17:15:59: ERROR[Main]: mod "mesecons_lightstone" has unsatisfied dependencies:  "dye"
+2020-06-30 17:15:59: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:15:59: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:15:59: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:15:59: ERROR[Main]: stack traceback:
+2020-06-30 17:15:59: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:15:59: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:15:59: ACTION[Main]: Server: Shutting down
+2020-06-30 17:16:06: ERROR[Main]: mod "moremesecons_igniter" has unsatisfied dependencies:  "fire"
+2020-06-30 17:16:06: ERROR[Main]: mod "mesecons_doors" has unsatisfied dependencies:  "doors"
+2020-06-30 17:16:06: ERROR[Main]: mod "mesecons_lightstone" has unsatisfied dependencies:  "dye"
+2020-06-30 17:16:06: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-06-30 17:16:06: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 17:16:06: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 17:16:06: ERROR[Main]: stack traceback:
+2020-06-30 17:16:06: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 17:16:06: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:16:06: ACTION[Main]: Server: Shutting down
+2020-06-30 17:16:21: WARNING[Main]: Mod dependency "doors" not found!
+2020-06-30 17:16:21: WARNING[Main]: Mod dependency "dye" not found!
+2020-06-30 17:16:31: ERROR[Main]: mod "mesecons_doors" has unsatisfied dependencies:  "doors"
+2020-06-30 17:16:31: ERROR[Main]: mod "mesecons_lightstone" has unsatisfied dependencies:  "dye"
+2020-06-30 17:16:31: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mesecons-master\mesecons_hydroturbine\init.lua:
+2020-06-30 17:16:31: ERROR[Main]: ...n\..\mods\mesecons-master\mesecons_hydroturbine\init.lua:25: attempt to call field 'node_sound_metal_defaults' (a nil value)
+2020-06-30 17:16:31: ERROR[Main]: stack traceback:
+2020-06-30 17:16:31: ERROR[Main]: 	...n\..\mods\mesecons-master\mesecons_hydroturbine\init.lua:25: in main chunk
+2020-06-30 17:16:31: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:16:31: ACTION[Main]: Server: Shutting down
+2020-06-30 17:16:40: WARNING[Main]: Mod dependency "fire" not found!
+2020-06-30 17:16:47: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-30 17:16:47: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-06-30 17:16:47: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:57978.
+2020-06-30 17:16:51: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 17:16:51: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 17:17:14: ACTION[Server]: singleplayer digs default:torch at (22,11,89)
+2020-06-30 17:17:15: ACTION[Server]: singleplayer digs default:torch at (23,11,88)
+2020-06-30 17:17:18: ACTION[Server]: singleplayer digs default:torch at (21,11,87)
+2020-06-30 17:17:18: ACTION[Server]: singleplayer digs default:torch at (22,11,88)
+2020-06-30 17:17:19: ACTION[Server]: singleplayer digs default:torch at (20,11,87)
+2020-06-30 17:17:19: ACTION[Server]: singleplayer digs default:torch at (20,11,88)
+2020-06-30 17:17:19: ACTION[Server]: singleplayer digs default:torch at (20,11,89)
+2020-06-30 17:17:23: ACTION[Server]: singleplayer digs default:dirt_with_grass at (20,10,90)
+2020-06-30 17:17:23: ACTION[Server]: singleplayer digs default:dirt_with_grass at (19,10,90)
+2020-06-30 17:17:27: ACTION[Server]: singleplayer digs default:dirt_with_grass at (19,10,91)
+2020-06-30 17:17:28: ACTION[Server]: singleplayer digs default:stone at (19,9,91)
+2020-06-30 17:17:29: ACTION[Server]: singleplayer digs default:dirt_with_grass at (18,10,91)
+2020-06-30 17:17:30: ACTION[Server]: singleplayer digs default:stone at (18,9,91)
+2020-06-30 17:17:32: ACTION[Server]: singleplayer digs default:dirt_with_grass at (17,10,91)
+2020-06-30 17:17:33: ACTION[Server]: singleplayer digs default:stone at (17,9,91)
+2020-06-30 17:17:35: ACTION[Server]: singleplayer digs default:dirt_with_grass at (19,9,92)
+2020-06-30 17:17:36: ACTION[Server]: singleplayer digs default:dirt_with_grass at (18,9,92)
+2020-06-30 17:17:36: ACTION[Server]: singleplayer digs default:dirt_with_grass at (17,10,92)
+2020-06-30 17:17:37: ACTION[Server]: singleplayer digs default:stone at (17,9,92)
+2020-06-30 17:17:39: ACTION[Server]: singleplayer digs default:dirt_with_grass at (18,9,93)
+2020-06-30 17:17:39: ACTION[Server]: singleplayer digs default:dirt_with_grass at (18,9,94)
+2020-06-30 17:17:40: ACTION[Server]: singleplayer digs default:dirt_with_grass at (17,9,93)
+2020-06-30 17:17:41: ACTION[Server]: singleplayer digs default:dirt_with_grass at (17,9,94)
+2020-06-30 17:17:42: ACTION[Server]: singleplayer digs default:dirt_with_grass at (17,9,95)
+2020-06-30 17:17:44: ACTION[Server]: singleplayer digs default:dirt_with_grass at (18,9,95)
+2020-06-30 17:17:45: ACTION[Server]: singleplayer digs default:dirt_with_grass at (19,9,94)
+2020-06-30 17:17:46: ACTION[Server]: singleplayer digs default:dirt_with_grass at (19,9,95)
+2020-06-30 17:17:47: ACTION[Server]: singleplayer digs default:dirt_with_grass at (19,9,93)
+2020-06-30 17:17:48: ACTION[Server]: singleplayer digs default:dirt_with_grass at (20,9,92)
+2020-06-30 17:17:48: ACTION[Server]: singleplayer digs default:dirt_with_grass at (20,9,93)
+2020-06-30 17:17:49: ACTION[Server]: singleplayer digs default:dirt_with_grass at (20,9,94)
+2020-06-30 17:18:10: ACTION[Main]: Server: Shutting down
+2020-06-30 17:19:19: ACTION[Main]: Yeah experimental loaded mods.
+2020-06-30 17:19:19: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\course]
+2020-06-30 17:19:19: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:60203.
+2020-06-30 17:19:21: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 17:19:21: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 17:20:13: ACTION[Main]: Server: Shutting down
+2020-06-30 17:21:03: WARNING[Main]: Mod name conflict detected: "mtimer"
+2020-06-30 17:21:03: WARNING[Main]: Will not load: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mtimer
+2020-06-30 17:21:03: WARNING[Main]: Will not load: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mtimer-master
+2020-06-30 17:21:03: ERROR[Main]: ModError: Unresolved name conflicts for mods "mtimer".
+2020-06-30 17:21:03: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:21:03: ACTION[Main]: Server: Shutting down
+2020-06-30 17:21:08: WARNING[Main]: Mod name conflict detected: "mtimer"
+2020-06-30 17:21:08: WARNING[Main]: Will not load: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mtimer
+2020-06-30 17:21:08: WARNING[Main]: Will not load: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\mtimer-master
+2020-06-30 17:21:08: ERROR[Main]: ModError: Unresolved name conflicts for mods "mtimer".
+2020-06-30 17:21:08: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 17:21:08: ACTION[Main]: Server: Shutting down
+2020-06-30 17:23:06: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\dre]
+2020-06-30 17:23:06: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:62443.
+2020-06-30 17:23:09: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 17:23:09: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 17:24:02: ACTION[Server]: singleplayer digs default:dirt_with_grass at (193,10,127)
+2020-06-30 17:24:02: ACTION[Server]: singleplayer digs default:dirt_with_grass at (194,10,127)
+2020-06-30 17:24:02: ACTION[Server]: singleplayer digs default:dirt at (194,9,127)
+2020-06-30 17:24:02: ACTION[Server]: singleplayer digs default:dirt at (194,9,126)
+2020-06-30 17:24:02: ACTION[Server]: singleplayer digs default:dirt at (194,8,126)
+2020-06-30 17:24:33: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,10,106)
+2020-06-30 17:24:33: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,10,105)
+2020-06-30 17:24:33: ACTION[Server]: singleplayer digs default:dirt at (211,9,105)
+2020-06-30 17:24:33: ACTION[Server]: singleplayer digs default:dirt at (211,9,104)
+2020-06-30 17:24:34: ACTION[Server]: singleplayer digs default:dirt at (211,9,103)
+2020-06-30 17:24:34: ACTION[Server]: singleplayer digs default:dirt_with_grass at (210,10,108)
+2020-06-30 17:24:34: ACTION[Server]: singleplayer digs default:dirt at (210,9,108)
+2020-06-30 17:24:34: ACTION[Server]: singleplayer digs default:stone at (210,8,108)
+2020-06-30 17:24:35: ACTION[Server]: singleplayer digs default:stone at (210,7,108)
+2020-06-30 17:24:35: ACTION[Server]: singleplayer digs default:stone at (210,6,108)
+2020-06-30 17:24:35: ACTION[Server]: singleplayer digs default:stone at (210,5,108)
+2020-06-30 17:24:35: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,10,107)
+2020-06-30 17:24:47: ACTION[Server]: CHAT: <singleplayer> -help
+2020-06-30 17:24:53: ACTION[Server]: CHAT: <singleplayer> help
+2020-06-30 17:25:08: ACTION[Server]: CHAT: <singleplayer> mtimer
+2020-06-30 17:25:50: ACTION[Server]: CHAT: <singleplayer> help mtimer
+2020-06-30 17:25:56: ACTION[Server]: CHAT: <singleplayer> cmd
+2020-06-30 17:25:59: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-06-30 21:52:48: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 21:52:48: ERROR[Main]: C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua: No such file or directory
+2020-06-30 21:52:48: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 21:52:48: ACTION[Main]: Server: Shutting down
+2020-06-30 21:57:03: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\dre]
+2020-06-30 21:57:03: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:53931.
+2020-06-30 21:57:05: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 21:57:05: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 21:57:08: ACTION[Server]: singleplayer digs default:dirt_with_grass at (212,11,108)
+2020-06-30 21:57:08: ACTION[Server]: singleplayer digs default:dirt_with_grass at (212,11,107)
+2020-06-30 21:57:09: ACTION[Server]: singleplayer digs default:dirt_with_grass at (213,11,106)
+2020-06-30 21:57:09: ACTION[Server]: singleplayer digs default:dirt at (213,10,106)
+2020-06-30 21:57:09: ACTION[Server]: singleplayer digs default:dirt_with_grass at (212,10,106)
+2020-06-30 21:57:09: ACTION[Server]: singleplayer digs default:dirt_with_grass at (209,10,107)
+2020-06-30 21:57:10: ACTION[Server]: singleplayer digs default:dirt_with_grass at (209,10,108)
+2020-06-30 21:57:10: ACTION[Server]: singleplayer digs default:dirt_with_grass at (209,10,109)
+2020-06-30 21:57:10: ACTION[Server]: singleplayer digs default:dirt_with_grass at (210,10,109)
+2020-06-30 21:57:11: ACTION[Server]: singleplayer digs default:dirt_with_grass at (209,10,111)
+2020-06-30 21:57:12: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,11,109)
+2020-06-30 21:57:12: ACTION[Server]: singleplayer digs default:dirt at (211,10,109)
+2020-06-30 21:57:12: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,11,110)
+2020-06-30 21:57:12: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,11,111)
+2020-06-30 21:57:13: ACTION[Server]: singleplayer digs default:dirt_with_grass at (212,11,109)
+2020-06-30 21:57:13: ACTION[Server]: singleplayer digs default:dirt_with_grass at (212,11,110)
+2020-06-30 21:57:13: ACTION[Server]: singleplayer digs default:dirt at (211,10,110)
+2020-06-30 21:57:13: ACTION[Server]: singleplayer digs default:dirt at (212,10,110)
+2020-06-30 21:57:14: ACTION[Server]: singleplayer digs default:dirt at (212,10,109)
+2020-06-30 21:57:14: ACTION[Server]: singleplayer digs default:dirt_with_grass at (211,10,108)
+2020-06-30 21:57:14: ACTION[Server]: singleplayer digs default:dirt at (211,9,108)
+2020-06-30 21:57:14: ACTION[Server]: singleplayer digs default:stone at (211,9,109)
+2020-06-30 21:57:15: ACTION[Server]: singleplayer digs default:dirt at (210,9,109)
+2020-06-30 21:57:22: ACTION[Server]: singleplayer places node default:dirt at (210,5,108)
+2020-06-30 21:57:22: ACTION[Server]: singleplayer places node default:dirt at (210,6,108)
+2020-06-30 21:57:23: ACTION[Server]: singleplayer places node default:dirt at (210,7,108)
+2020-06-30 21:57:23: ACTION[Server]: singleplayer places node default:dirt at (210,8,108)
+2020-06-30 21:57:23: ACTION[Server]: singleplayer places node default:dirt at (210,9,108)
+2020-06-30 21:57:23: ACTION[Server]: singleplayer places node default:dirt at (210,10,108)
+2020-06-30 21:57:23: ACTION[Server]: singleplayer places node default:dirt at (210,11,108)
+2020-06-30 21:57:24: ACTION[Server]: singleplayer places node default:dirt at (210,12,108)
+2020-06-30 21:57:24: ACTION[Server]: singleplayer places node default:dirt at (210,13,108)
+2020-06-30 21:57:28: ACTION[Server]: singleplayer places node default:dirt at (210,14,108)
+2020-06-30 21:57:28: ACTION[Server]: singleplayer places node default:dirt at (210,15,108)
+2020-06-30 21:57:28: ACTION[Server]: singleplayer places node default:dirt at (210,16,108)
+2020-06-30 21:57:28: ACTION[Server]: singleplayer places node default:dirt at (210,17,108)
+2020-06-30 21:57:29: ACTION[Server]: singleplayer places node default:dirt at (210,18,108)
+2020-06-30 21:57:30: ACTION[Server]: singleplayer places node default:dirt at (210,19,108)
+2020-06-30 21:57:31: ACTION[Server]: singleplayer places node default:dirt at (210,20,108)
+2020-06-30 21:57:31: ACTION[Server]: singleplayer places node default:dirt at (210,21,108)
+2020-06-30 21:57:31: ACTION[Server]: singleplayer places node default:dirt at (210,22,108)
+2020-06-30 21:57:32: ACTION[Server]: singleplayer places node default:dirt at (210,23,108)
+2020-06-30 21:57:32: ACTION[Server]: singleplayer places node default:dirt at (210,24,108)
+2020-06-30 21:57:33: ACTION[Server]: singleplayer places node default:dirt at (210,25,108)
+2020-06-30 21:57:33: ACTION[Server]: singleplayer places node default:dirt at (210,26,108)
+2020-06-30 21:57:33: ACTION[Server]: singleplayer places node default:dirt at (210,27,108)
+2020-06-30 21:57:34: ACTION[Server]: singleplayer places node default:dirt at (210,28,108)
+2020-06-30 21:57:35: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:41: ACTION[Server]: singleplayer places node default:dirt at (210,27,109)
+2020-06-30 21:57:42: ACTION[Server]: singleplayer places node default:dirt at (210,28,109)
+2020-06-30 21:57:43: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:44: ACTION[Server]: singleplayer places node default:dirt at (210,29,109)
+2020-06-30 21:57:47: ACTION[Server]: singleplayer places node default:dirt at (210,29,108)
+2020-06-30 21:57:52: ACTION[Server]: singleplayer places node default:dirt at (209,29,108)
+2020-06-30 21:57:55: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:55: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:55: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:56: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:56: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:57:58: ACTION[Server]: singleplayer places node default:dirt at (209,29,109)
+2020-06-30 21:58:02: ACTION[Server]: singleplayer places node default:dirt at (211,29,108)
+2020-06-30 21:58:02: ACTION[Server]: singleplayer places node default:dirt at (211,28,109)
+2020-06-30 21:58:03: ACTION[Server]: singleplayer places node default:dirt at (211,29,109)
+2020-06-30 21:58:05: ACTION[Server]: singleplayer places node default:dirt at (211,30,108)
+2020-06-30 21:58:06: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:58:11: ACTION[Server]: singleplayer damaged by 13 hp at (207.961,11.757,109.109)
+2020-06-30 21:58:13: ACTION[Server]: singleplayer places node default:dirt at (208,11,109)
+2020-06-30 21:58:14: ACTION[Server]: singleplayer places node default:dirt at (208,12,109)
+2020-06-30 21:58:14: ACTION[Server]: singleplayer places node default:dirt at (208,13,109)
+2020-06-30 21:58:14: ACTION[Server]: singleplayer places node default:dirt at (208,14,109)
+2020-06-30 21:58:14: ACTION[Server]: singleplayer places node default:dirt at (208,15,109)
+2020-06-30 21:58:14: ACTION[Server]: singleplayer places node default:dirt at (208,16,109)
+2020-06-30 21:58:15: ACTION[Server]: singleplayer places node default:dirt at (208,17,109)
+2020-06-30 21:58:15: ACTION[Server]: singleplayer places node default:dirt at (208,18,109)
+2020-06-30 21:58:15: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:58:15: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:58:15: ACTION[Server]: singleplayer activates default:dirt
+2020-06-30 21:58:17: ACTION[Server]: singleplayer damaged by 4 hp at (205.863,11.017,110.527)
+2020-06-30 21:58:18: ACTION[Server]: singleplayer places node default:dirt at (206,10,111)
+2020-06-30 21:58:18: ACTION[Server]: singleplayer places node default:dirt at (206,11,111)
+2020-06-30 21:58:18: ACTION[Server]: singleplayer places node default:dirt at (206,12,111)
+2020-06-30 21:58:18: ACTION[Server]: singleplayer places node default:dirt at (206,13,111)
+2020-06-30 21:58:19: ACTION[Server]: singleplayer places node default:dirt at (206,14,111)
+2020-06-30 21:58:20: ACTION[Server]: singleplayer places node default:dirt at (206,15,111)
+2020-06-30 21:58:20: ACTION[Server]: singleplayer places node default:dirt at (206,16,111)
+2020-06-30 21:58:20: ACTION[Server]: singleplayer places node default:dirt at (206,17,111)
+2020-06-30 21:58:21: ACTION[Server]: singleplayer places node default:dirt at (206,18,111)
+2020-06-30 21:58:21: ACTION[Server]: singleplayer places node default:dirt at (206,19,111)
+2020-06-30 21:58:23: ACTION[Server]: singleplayer damaged by 4 hp at (206.489,9.59,109.442)
+2020-06-30 21:58:23: ACTION[Server]: singleplayer dies at (206,10,109). No bones placed
+2020-06-30 21:58:25: ACTION[Server]: singleplayer respawns at (192,12,128)
+2020-06-30 21:58:29: ACTION[Server]: singleplayer places node default:dirt at (194,10,127)
+2020-06-30 21:58:29: ACTION[Server]: singleplayer places node default:dirt at (193,10,127)
+2020-06-30 21:58:29: ACTION[Server]: singleplayer places node default:dirt at (193,11,127)
+2020-06-30 21:58:32: ACTION[Server]: singleplayer digs flowers:tulip at (192,11,127)
+2020-06-30 21:58:32: ACTION[Server]: singleplayer digs default:dirt_with_grass at (192,10,126)
+2020-06-30 21:58:32: ACTION[Server]: singleplayer digs default:dirt_with_grass at (192,9,125)
+2020-06-30 21:58:50: ACTION[Server]: singleplayer places node default:dirt at (190,14,134)
+2020-06-30 21:58:51: ACTION[Server]: singleplayer places node default:dirt at (190,15,134)
+2020-06-30 21:58:53: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-06-30 21:59:45: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\dre]
+2020-06-30 21:59:45: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:61712.
+2020-06-30 21:59:46: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-06-30 21:59:46: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-06-30 21:59:48: ACTION[Server]: singleplayer places node default:dirt at (188,15,137)
+2020-06-30 21:59:48: ACTION[Server]: singleplayer places node default:dirt at (188,15,136)
+2020-06-30 21:59:49: ACTION[Server]: singleplayer places node default:dirt at (188,14,134)
+2020-06-30 21:59:55: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-06-30 22:02:09: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 22:02:09: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 22:02:09: ERROR[Main]: stack traceback:
+2020-06-30 22:02:09: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 22:02:09: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 22:02:09: ACTION[Main]: Server: Shutting down
+2020-06-30 22:27:36: ERROR[Main]: Veuillez choisir un nom !
+
+
+-------------
+  Separator
+-------------
+
+2020-06-30 22:28:25: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 22:28:25: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 22:28:25: ERROR[Main]: stack traceback:
+2020-06-30 22:28:25: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 22:28:25: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 22:28:25: ACTION[Main]: Server: Shutting down
+2020-06-30 22:28:44: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 22:28:44: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 22:28:44: ERROR[Main]: stack traceback:
+2020-06-30 22:28:44: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 22:28:44: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 22:28:44: ACTION[Main]: Server: Shutting down
+2020-06-30 22:28:52: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 22:28:52: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-06-30 22:28:52: ERROR[Main]: stack traceback:
+2020-06-30 22:28:52: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-06-30 22:28:52: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 22:28:52: ACTION[Main]: Server: Shutting down
+2020-06-30 22:29:40: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 22:29:40: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:3: attempt to index local 'player' (a nil value)
+2020-06-30 22:29:40: ERROR[Main]: stack traceback:
+2020-06-30 22:29:40: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:3: in main chunk
+2020-06-30 22:29:40: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 22:29:40: ACTION[Main]: Server: Shutting down
+2020-06-30 22:40:33: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13
+2020-06-30 22:40:33: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-06-30 22:40:33: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: attempt to index global 'player' (a nil value)
+2020-06-30 22:40:33: ERROR[Main]: stack traceback:
+2020-06-30 22:40:33: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: in main chunk
+2020-06-30 22:40:33: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-06-30 22:40:33: ACTION[Main]: Server: Shutting down
+2020-06-30 22:41:03: ERROR[Main]: Veuillez choisir un nom !
+
+
+-------------
+  Separator
+-------------
+
+2020-07-01 15:40:43: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13
+2020-07-01 15:40:43: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:40:43: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: attempt to index global 'player' (a nil value)
+2020-07-01 15:40:43: ERROR[Main]: stack traceback:
+2020-07-01 15:40:43: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: in main chunk
+2020-07-01 15:40:43: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:40:43: ACTION[Main]: Server: Shutting down
+2020-07-01 15:41:49: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 15:41:49: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\course]
+2020-07-01 15:41:49: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:59796.
+2020-07-01 15:41:50: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-07-01 15:41:50: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-07-01 15:41:58: ACTION[Main]: Server: Shutting down
+2020-07-01 15:42:04: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13
+2020-07-01 15:42:04: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:42:04: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: attempt to index global 'player' (a nil value)
+2020-07-01 15:42:04: ERROR[Main]: stack traceback:
+2020-07-01 15:42:04: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: in main chunk
+2020-07-01 15:42:04: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:42:04: ACTION[Main]: Server: Shutting down
+2020-07-01 15:42:10: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 15:42:10: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\course]
+2020-07-01 15:42:10: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:50020.
+2020-07-01 15:42:12: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-07-01 15:42:12: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-07-01 15:43:56: ACTION[Server]: CHAT: <singleplayer> time.start
+2020-07-01 15:44:02: ACTION[Server]: singleplayer digs default:dirt_with_grass at (64,13,30)
+2020-07-01 15:44:04: ACTION[Server]: singleplayer digs default:dirt_with_grass at (63,13,31)
+2020-07-01 15:44:05: ACTION[Server]: singleplayer digs default:dirt_with_grass at (62,13,31)
+2020-07-01 15:44:18: ACTION[Server]: singleplayer places node default:torch at (55,5,52)
+2020-07-01 15:44:18: ACTION[Server]: singleplayer places node default:torch at (54,5,53)
+2020-07-01 15:44:19: ACTION[Server]: singleplayer places node default:torch at (54,5,54)
+2020-07-01 15:44:19: ACTION[Server]: singleplayer places node default:torch at (56,5,55)
+2020-07-01 15:44:19: ACTION[Server]: singleplayer places node default:torch at (56,5,56)
+2020-07-01 15:44:19: ACTION[Server]: singleplayer places node default:torch at (52,5,53)
+2020-07-01 15:44:19: ACTION[Server]: singleplayer places node default:torch at (52,5,52)
+2020-07-01 15:44:19: ACTION[Server]: singleplayer activates default:torch
+2020-07-01 15:44:20: ACTION[Server]: singleplayer activates default:torch
+2020-07-01 15:44:20: ACTION[Server]: singleplayer places node default:torch at (54,5,56)
+2020-07-01 15:44:20: ACTION[Server]: singleplayer places node default:torch at (53,5,57)
+2020-07-01 15:44:20: ACTION[Server]: singleplayer places node default:torch at (51,5,56)
+2020-07-01 15:44:20: ACTION[Server]: singleplayer places node default:torch at (51,5,54)
+2020-07-01 15:44:20: ACTION[Server]: singleplayer places node default:torch at (50,5,53)
+2020-07-01 15:44:21: ACTION[Server]: singleplayer places node default:torch at (49,5,53)
+2020-07-01 15:44:21: ACTION[Server]: singleplayer places node default:torch at (49,5,52)
+2020-07-01 15:44:22: ACTION[Server]: singleplayer places node default:torch at (49,5,54)
+2020-07-01 15:44:22: ACTION[Server]: singleplayer places node default:torch at (51,5,55)
+2020-07-01 15:44:23: ACTION[Server]: singleplayer places node default:torch at (52,5,54)
+2020-07-01 15:44:23: ACTION[Server]: singleplayer activates default:torch
+2020-07-01 15:44:23: ACTION[Server]: singleplayer activates default:torch
+2020-07-01 15:44:23: ACTION[Server]: singleplayer places node default:torch at (51,5,53)
+2020-07-01 15:44:36: ACTION[Server]: singleplayer right-clicks object 2: LuaEntitySAO at (50.8348,4.66621,53.6357)
+2020-07-01 15:44:36: ACTION[Server]: player singleplayer (id=1, hp=10) punched LuaEntitySAO at (50.8348,4.66621,53.6357) (id=2, hp=1), damage=0
+2020-07-01 15:44:46: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=50,4,55 above=50,5,55]
+2020-07-01 15:44:46: ACTION[Server]: Tester tool used at (50,5,55)
+2020-07-01 15:44:46: ACTION[Server]: experimental:tester_node_1:on_construct((50,5,55))
+2020-07-01 15:44:46: ACTION[Server]: experimental:tester_node_1:after_place_node((50,5,55))
+2020-07-01 15:44:46: ACTION[Server]: correct metadata found
+2020-07-01 15:44:50: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:44:54: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:44:58: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:44:59: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=50,5,55 above=50,5,54]
+2020-07-01 15:44:59: ACTION[Server]: Tester tool used at (50,5,55)
+2020-07-01 15:44:59: ACTION[Server]: experimental:tester_node_1:on_destruct((50,5,55))
+2020-07-01 15:44:59: ACTION[Server]: experimental:tester_node_1:after_destruct((50,5,55))
+2020-07-01 15:44:59: ACTION[Server]: experimental:tester_node_1:after_dig_node((50,5,55))
+2020-07-01 15:45:02: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,57 above=49,5,57]
+2020-07-01 15:45:02: ACTION[Server]: Tester tool used at (49,5,57)
+2020-07-01 15:45:02: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,57))
+2020-07-01 15:45:02: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,57))
+2020-07-01 15:45:02: ACTION[Server]: correct metadata found
+2020-07-01 15:45:06: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:07: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=48,4,55 above=48,5,55]
+2020-07-01 15:45:07: ACTION[Server]: Tester tool used at (48,5,55)
+2020-07-01 15:45:07: ACTION[Server]: experimental:tester_node_1:on_construct((48,5,55))
+2020-07-01 15:45:07: ACTION[Server]: experimental:tester_node_1:after_place_node((48,5,55))
+2020-07-01 15:45:07: ACTION[Server]: correct metadata found
+2020-07-01 15:45:08: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,5,52 above=49,5,53]
+2020-07-01 15:45:08: ACTION[Server]: Tester tool used at (49,5,53)
+2020-07-01 15:45:08: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,55 above=49,5,55]
+2020-07-01 15:45:08: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:08: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,55))
+2020-07-01 15:45:08: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,55))
+2020-07-01 15:45:08: ACTION[Server]: correct metadata found
+2020-07-01 15:45:08: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,5,55 above=49,6,55]
+2020-07-01 15:45:08: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:08: ACTION[Server]: experimental:tester_node_1:on_destruct((49,5,55))
+2020-07-01 15:45:08: ACTION[Server]: experimental:tester_node_1:after_destruct((49,5,55))
+2020-07-01 15:45:08: ACTION[Server]: experimental:tester_node_1:after_dig_node((49,5,55))
+2020-07-01 15:45:09: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=51,4,55 above=51,5,55]
+2020-07-01 15:45:09: ACTION[Server]: Tester tool used at (51,5,55)
+2020-07-01 15:45:09: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,55 above=49,5,55]
+2020-07-01 15:45:09: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:09: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,55))
+2020-07-01 15:45:09: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,55))
+2020-07-01 15:45:09: ACTION[Server]: correct metadata found
+2020-07-01 15:45:09: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,5,55 above=49,6,55]
+2020-07-01 15:45:09: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:09: ACTION[Server]: experimental:tester_node_1:on_destruct((49,5,55))
+2020-07-01 15:45:09: ACTION[Server]: experimental:tester_node_1:after_destruct((49,5,55))
+2020-07-01 15:45:09: ACTION[Server]: experimental:tester_node_1:after_dig_node((49,5,55))
+2020-07-01 15:45:09: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 5]
+2020-07-01 15:45:10: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 5]
+2020-07-01 15:45:10: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 5]
+2020-07-01 15:45:10: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:10: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,55 above=49,5,55]
+2020-07-01 15:45:10: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:10: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,55))
+2020-07-01 15:45:10: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,55))
+2020-07-01 15:45:10: ACTION[Server]: correct metadata found
+2020-07-01 15:45:11: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,5,55 above=49,6,55]
+2020-07-01 15:45:11: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:11: ACTION[Server]: experimental:tester_node_1:on_destruct((49,5,55))
+2020-07-01 15:45:11: ACTION[Server]: experimental:tester_node_1:after_destruct((49,5,55))
+2020-07-01 15:45:11: ACTION[Server]: experimental:tester_node_1:after_dig_node((49,5,55))
+2020-07-01 15:45:11: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:11: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,55 above=49,5,55]
+2020-07-01 15:45:11: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:11: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,55))
+2020-07-01 15:45:11: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,55))
+2020-07-01 15:45:11: ACTION[Server]: correct metadata found
+2020-07-01 15:45:12: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,5,55 above=49,6,55]
+2020-07-01 15:45:12: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:12: ACTION[Server]: experimental:tester_node_1:on_destruct((49,5,55))
+2020-07-01 15:45:12: ACTION[Server]: experimental:tester_node_1:after_destruct((49,5,55))
+2020-07-01 15:45:12: ACTION[Server]: experimental:tester_node_1:after_dig_node((49,5,55))
+2020-07-01 15:45:13: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,55 above=49,5,55]
+2020-07-01 15:45:13: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:13: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,55))
+2020-07-01 15:45:13: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,55))
+2020-07-01 15:45:13: ACTION[Server]: correct metadata found
+2020-07-01 15:45:13: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,5,55 above=49,6,55]
+2020-07-01 15:45:13: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:13: ACTION[Server]: experimental:tester_node_1:on_destruct((49,5,55))
+2020-07-01 15:45:13: ACTION[Server]: experimental:tester_node_1:after_destruct((49,5,55))
+2020-07-01 15:45:13: ACTION[Server]: experimental:tester_node_1:after_dig_node((49,5,55))
+2020-07-01 15:45:13: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 8]
+2020-07-01 15:45:13: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 8]
+2020-07-01 15:45:13: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 8]
+2020-07-01 15:45:14: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,55 above=49,5,55]
+2020-07-01 15:45:14: ACTION[Server]: Tester tool used at (49,5,55)
+2020-07-01 15:45:14: ACTION[Server]: experimental:tester_node_1:on_construct((49,5,55))
+2020-07-01 15:45:14: ACTION[Server]: experimental:tester_node_1:after_place_node((49,5,55))
+2020-07-01 15:45:14: ACTION[Server]: correct metadata found
+2020-07-01 15:45:14: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:15: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:16: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=48,5,55 above=48,6,55]
+2020-07-01 15:45:16: ACTION[Server]: Tester tool used at (48,5,55)
+2020-07-01 15:45:16: ACTION[Server]: experimental:tester_node_1:on_destruct((48,5,55))
+2020-07-01 15:45:16: ACTION[Server]: experimental:tester_node_1:after_destruct((48,5,55))
+2020-07-01 15:45:16: ACTION[Server]: experimental:tester_node_1:after_dig_node((48,5,55))
+2020-07-01 15:45:18: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:18: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=49,4,53 above=49,5,53]
+2020-07-01 15:45:18: ACTION[Server]: Tester tool used at (49,5,53)
+2020-07-01 15:45:18: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:18: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=46,4,53 above=46,5,53]
+2020-07-01 15:45:18: ACTION[Server]: Tester tool used at (46,5,53)
+2020-07-01 15:45:18: ACTION[Server]: experimental:tester_node_1:on_construct((46,5,53))
+2020-07-01 15:45:18: ACTION[Server]: experimental:tester_node_1:after_place_node((46,5,53))
+2020-07-01 15:45:18: ACTION[Server]: correct metadata found
+2020-07-01 15:45:19: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=47,4,51 above=47,5,51]
+2020-07-01 15:45:19: ACTION[Server]: Tester tool used at (47,5,51)
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:on_construct((47,5,51))
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:after_place_node((47,5,51))
+2020-07-01 15:45:19: ACTION[Server]: correct metadata found
+2020-07-01 15:45:19: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=50,4,51 above=50,5,51]
+2020-07-01 15:45:19: ACTION[Server]: Tester tool used at (50,5,51)
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:on_construct((50,5,51))
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:after_place_node((50,5,51))
+2020-07-01 15:45:19: ACTION[Server]: correct metadata found
+2020-07-01 15:45:19: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=50,5,51 above=49,5,51]
+2020-07-01 15:45:19: ACTION[Server]: Tester tool used at (50,5,51)
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:on_destruct((50,5,51))
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:after_destruct((50,5,51))
+2020-07-01 15:45:19: ACTION[Server]: experimental:tester_node_1:after_dig_node((50,5,51))
+2020-07-01 15:45:19: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 10]
+2020-07-01 15:45:20: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=52,4,49 above=52,5,49]
+2020-07-01 15:45:20: ACTION[Server]: Tester tool used at (52,5,49)
+2020-07-01 15:45:20: ACTION[Server]: experimental:tester_node_1:on_construct((52,5,49))
+2020-07-01 15:45:20: ACTION[Server]: experimental:tester_node_1:after_place_node((52,5,49))
+2020-07-01 15:45:20: ACTION[Server]: correct metadata found
+2020-07-01 15:45:20: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=52,5,49 above=51,5,49]
+2020-07-01 15:45:20: ACTION[Server]: Tester tool used at (52,5,49)
+2020-07-01 15:45:20: ACTION[Server]: experimental:tester_node_1:on_destruct((52,5,49))
+2020-07-01 15:45:20: ACTION[Server]: experimental:tester_node_1:after_destruct((52,5,49))
+2020-07-01 15:45:20: ACTION[Server]: experimental:tester_node_1:after_dig_node((52,5,49))
+2020-07-01 15:45:20: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 11]
+2020-07-01 15:45:22: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:22: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:22: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:22: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:23: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=55,4,53 above=55,5,53]
+2020-07-01 15:45:23: ACTION[Server]: Tester tool used at (55,5,53)
+2020-07-01 15:45:23: ACTION[Server]: experimental:tester_node_1:on_construct((55,5,53))
+2020-07-01 15:45:23: ACTION[Server]: experimental:tester_node_1:after_place_node((55,5,53))
+2020-07-01 15:45:23: ACTION[Server]: correct metadata found
+2020-07-01 15:45:26: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:26: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:26: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:26: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:26: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:29: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [node under=55,5,53 above=55,6,53]
+2020-07-01 15:45:29: ACTION[Server]: Tester tool used at (55,5,53)
+2020-07-01 15:45:29: ACTION[Server]: experimental:tester_node_1:on_destruct((55,5,53))
+2020-07-01 15:45:29: ACTION[Server]: experimental:tester_node_1:after_destruct((55,5,53))
+2020-07-01 15:45:29: ACTION[Server]: experimental:tester_node_1:after_dig_node((55,5,53))
+2020-07-01 15:45:30: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:30: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:30: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:30: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:31: ACTION[Server]: singleplayer uses experimental:tester_tool_1, pointing at [object 12]
+2020-07-01 15:45:31: ACTION[Server]: singleplayer right-clicks object 12: LuaEntitySAO at (54.9583,4.66621,52.7501)
+2020-07-01 15:45:34: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:34: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:34: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:34: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:45:37: ACTION[Main]: Server: Shutting down
+2020-07-01 15:46:27: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 15:46:27: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\course]
+2020-07-01 15:46:27: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-01 15:46:27: ACTION[Server]: coucou [127.0.0.1] joins game. 
+2020-07-01 15:46:27: ACTION[Server]: coucou joins game. List of players: coucou
+2020-07-01 15:46:29: ACTION[Server]: on_timer(): elapsed=4.1989998817444
+2020-07-01 15:46:29: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:31: ACTION[Server]: on_timer(): elapsed=20.60000038147
+2020-07-01 15:46:31: ACTION[Server]: on_timer(): elapsed=20.200000762939
+2020-07-01 15:46:33: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:33: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:35: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:35: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:37: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:37: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:39: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:39: ACTION[Server]: on_timer(): elapsed=4
+2020-07-01 15:46:40: ACTION[Main]: Server: Shutting down
+2020-07-01 15:46:51: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13
+2020-07-01 15:46:51: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:46:51: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: attempt to index global 'player' (a nil value)
+2020-07-01 15:46:51: ERROR[Main]: stack traceback:
+2020-07-01 15:46:51: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: in main chunk
+2020-07-01 15:46:51: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:46:51: ACTION[Main]: Server: Shutting down
+2020-07-01 15:46:57: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13
+2020-07-01 15:46:57: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:46:57: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: attempt to index global 'player' (a nil value)
+2020-07-01 15:46:57: ERROR[Main]: stack traceback:
+2020-07-01 15:46:57: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:13: in main chunk
+2020-07-01 15:46:57: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:46:57: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-07-01 15:49:53: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 15:49:54: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed88286]
+2020-07-01 15:49:54: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-01 15:49:56: ACTION[Server]: coucou [127.0.0.1] joins game. 
+2020-07-01 15:49:56: ACTION[Server]: coucou joins game. List of players: coucou
+2020-07-01 15:49:58: ACTION[Server]: coucou digs default:dirt_with_grass at (-83,17,1)
+2020-07-01 15:49:59: ACTION[Server]: coucou digs default:dirt_with_grass at (-84,17,1)
+2020-07-01 15:50:00: ACTION[Server]: coucou digs default:dirt_with_grass at (-83,17,2)
+2020-07-01 15:50:00: ACTION[Server]: coucou digs default:dirt_with_grass at (-84,17,2)
+2020-07-01 15:50:01: ACTION[Server]: coucou digs default:dirt at (-84,16,2)
+2020-07-01 15:50:03: ACTION[Server]: coucou digs default:dirt at (-84,16,1)
+2020-07-01 15:50:04: ACTION[Server]: coucou digs default:stone at (-83,16,1)
+2020-07-01 15:50:05: ACTION[Server]: coucou digs default:stone at (-83,16,2)
+2020-07-01 15:50:06: ACTION[Server]: coucou digs default:dirt_with_grass at (-82,17,2)
+2020-07-01 15:50:07: ACTION[Server]: coucou digs default:stone at (-82,16,2)
+2020-07-01 15:50:13: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-07-01 15:52:39: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 15:52:39: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 15:52:39: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:52538.
+2020-07-01 15:52:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-07-01 15:52:40: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-07-01 15:52:49: ACTION[Main]: Server: Shutting down
+2020-07-01 15:52:55: WARNING[Main]: Undeclared global variable "meta" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14
+2020-07-01 15:52:55: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:52:55: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14: attempt to index global 'meta' (a nil value)
+2020-07-01 15:52:55: ERROR[Main]: stack traceback:
+2020-07-01 15:52:55: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14: in main chunk
+2020-07-01 15:52:55: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:52:55: ACTION[Main]: Server: Shutting down
+2020-07-01 15:54:18: WARNING[Main]: Undeclared global variable "player_meta" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14
+2020-07-01 15:54:18: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:54:18: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14: attempt to index global 'player_meta' (a nil value)
+2020-07-01 15:54:18: ERROR[Main]: stack traceback:
+2020-07-01 15:54:18: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14: in main chunk
+2020-07-01 15:54:18: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:54:18: ACTION[Main]: Server: Shutting down
+2020-07-01 15:54:20: WARNING[Main]: Undeclared global variable "player_meta" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14
+2020-07-01 15:54:20: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 15:54:20: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14: attempt to index global 'player_meta' (a nil value)
+2020-07-01 15:54:20: ERROR[Main]: stack traceback:
+2020-07-01 15:54:20: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:14: in main chunk
+2020-07-01 15:54:20: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 15:54:20: ACTION[Main]: Server: Shutting down
+2020-07-01 15:54:58: ERROR[Main]: Veuillez choisir un nom !
+
+
+-------------
+  Separator
+-------------
+
+2020-07-01 16:21:11: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 16:21:17: ERROR[Main]: Veuillez choisir un nom !
+2020-07-01 16:21:23: ERROR[Main]: Veuillez choisir un nom !
+2020-07-01 16:22:04: ERROR[Main]: Veuillez choisir un nom !
+2020-07-01 16:23:49: ERROR[Main]: Connection timed out.
+2020-07-01 16:24:17: ERROR[Main]: Connection timed out.
+2020-07-01 16:25:23: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:25:23: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:10: '<eof>' expected near 'end'
+2020-07-01 16:25:23: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:25:23: ACTION[Main]: Server: Shutting down
+2020-07-01 16:26:15: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:26:15: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:10: '<eof>' expected near 'end'
+2020-07-01 16:26:15: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:26:15: ACTION[Main]: Server: Shutting down
+2020-07-01 16:26:30: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:26:30: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-01 16:26:30: ERROR[Main]: stack traceback:
+2020-07-01 16:26:30: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-01 16:26:30: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:26:30: ACTION[Main]: Server: Shutting down
+2020-07-01 16:26:35: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:26:35: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-01 16:26:35: ERROR[Main]: stack traceback:
+2020-07-01 16:26:35: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-01 16:26:35: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:26:35: ACTION[Main]: Server: Shutting down
+2020-07-01 16:26:40: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:26:40: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-01 16:26:40: ERROR[Main]: stack traceback:
+2020-07-01 16:26:40: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-01 16:26:40: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:26:40: ACTION[Main]: Server: Shutting down
+2020-07-01 16:27:10: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:27:10: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-01 16:27:10: ERROR[Main]: stack traceback:
+2020-07-01 16:27:10: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-01 16:27:10: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:27:10: ACTION[Main]: Server: Shutting down
+2020-07-01 16:28:30: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 16:28:30: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 16:28:30: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-01 16:28:30: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-01 16:28:30: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-01 16:28:44: ACTION[Server]: divinium digs default:sand at (-21,3,-3)
+2020-07-01 16:28:46: ACTION[Server]: divinium digs default:sand at (-22,3,-5)
+2020-07-01 16:29:26: ACTION[Main]: Server: Shutting down
+2020-07-01 16:33:33: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:33:33: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-01 16:33:33: ERROR[Main]: stack traceback:
+2020-07-01 16:33:33: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-01 16:33:33: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:33:33: ACTION[Main]: Server: Shutting down
+2020-07-01 16:33:36: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:33:36: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-01 16:33:36: ERROR[Main]: stack traceback:
+2020-07-01 16:33:36: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-01 16:33:36: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:33:36: ACTION[Main]: Server: Shutting down
+2020-07-01 16:35:21: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-07-01 16:35:21: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:35:21: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1: attempt to index global 'player' (a nil value)
+2020-07-01 16:35:21: ERROR[Main]: stack traceback:
+2020-07-01 16:35:21: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1: in main chunk
+2020-07-01 16:35:21: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:35:21: ACTION[Main]: Server: Shutting down
+2020-07-01 16:35:39: WARNING[Main]: Undeclared global variable "player" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-07-01 16:35:39: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-01 16:35:39: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1: attempt to index global 'player' (a nil value)
+2020-07-01 16:35:39: ERROR[Main]: stack traceback:
+2020-07-01 16:35:39: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1: in main chunk
+2020-07-01 16:35:39: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-01 16:35:39: ACTION[Main]: Server: Shutting down
+2020-07-01 17:00:33: ACTION[Main]: Installed package to C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\mods\hud_timers
+2020-07-01 17:00:46: WARNING[Main]: Mod dependency "modlib" not found!
+2020-07-01 17:00:51: ERROR[Main]: mod "hud_timers" has unsatisfied dependencies:  "modlib"
+2020-07-01 17:00:51: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 17:00:51: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 17:00:51: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-01 17:00:51: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-01 17:00:51: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-01 17:01:28: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-07-01 17:05:59: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 17:06:08: WARNING[Main]: Mod dependency "modlib" not found!
+2020-07-01 17:06:12: ERROR[Main]: mod "hud_timers" has unsatisfied dependencies:  "modlib"
+2020-07-01 17:06:12: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 17:06:12: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 17:06:12: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:51133.
+2020-07-01 17:06:12: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-07-01 17:06:12: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-07-01 17:06:20: ACTION[Server]: singleplayer digs default:sand at (-13,3,0)
+2020-07-01 17:06:21: ACTION[Server]: singleplayer digs default:sand at (-14,3,1)
+2020-07-01 17:06:28: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-07-01 21:05:06: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 21:05:18: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 21:05:18: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 21:05:18: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:65423.
+2020-07-01 21:05:18: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2020-07-01 21:05:18: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2020-07-01 21:05:19: ERROR[Main]: ServerError: AsyncErr: ServerThread::run Lua: Runtime error from mod 'hud_score' in callback on_joinplayer(): ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:8: attempt to index local 'player' (a nil value)
+2020-07-01 21:05:19: ERROR[Main]: stack traceback:
+2020-07-01 21:05:19: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:8: in function <...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:4>
+2020-07-01 21:05:19: ERROR[Main]: 	...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:429: in function <...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:413>
+2020-07-01 21:05:19: ACTION[Server]: singleplayer leaves game. List of players: 
+2020-07-01 21:05:19: ACTION[Main]: Server: Shutting down
+2020-07-01 21:42:47: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-01 21:42:47: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-01 21:42:47: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-01 21:42:47: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-01 21:42:47: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-01 21:42:48: ERROR[Main]: ServerError: AsyncErr: ServerThread::run Lua: Runtime error from mod 'hud_score' in callback on_joinplayer(): ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:8: attempt to index local 'player' (a nil value)
+2020-07-01 21:42:48: ERROR[Main]: stack traceback:
+2020-07-01 21:42:48: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:8: in function <...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:4>
+2020-07-01 21:42:48: ERROR[Main]: 	...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:429: in function <...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:413>
+2020-07-01 21:42:48: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-01 21:42:48: ACTION[Main]: Server: Shutting down
