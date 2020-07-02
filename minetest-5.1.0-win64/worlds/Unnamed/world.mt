@@ -63,3 +63,4 @@ load_mod_mesecons_commandblock = false
 load_mod_mesecons_button = false
 load_mod_hud_timers = false
 load_mod_timer = false
+load_mod_block_boost = false

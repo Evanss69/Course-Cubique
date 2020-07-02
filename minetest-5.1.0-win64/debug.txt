@@ -1012,3 +1012,135 @@
 2020-07-01 21:42:48: ERROR[Main]: 	...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:429: in function <...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:413>
 2020-07-01 21:42:48: ACTION[Server]: divinium leaves game. List of players: 
 2020-07-01 21:42:48: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-07-02 18:35:15: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:36:11: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:36:11: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:36:11: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:36:12: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:36:12: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:36:12: WARNING[Server]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:65
+2020-07-02 18:36:12: WARNING[Server]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:73
+2020-07-02 18:36:12: ERROR[Main]: ServerError: AsyncErr: ServerThread::run Lua: Runtime error from mod 'hud_score' in callback on_joinplayer(): ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:73: table index is nil
+2020-07-02 18:36:12: ERROR[Main]: stack traceback:
+2020-07-02 18:36:12: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:73: in function <...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:4>
+2020-07-02 18:36:12: ERROR[Main]: 	...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:429: in function <...ue\minetest-5.1.0-win64\bin\..\builtin\game\register.lua:413>
+2020-07-02 18:36:12: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:36:12: ACTION[Main]: Server: Shutting down
+2020-07-02 18:36:57: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:36:57: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:36:57: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:36:57: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:36:57: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:36:57: ERROR[Main]: generateImage(): Could not load image "score_background.png" while building texture; Creating a dummy image
+2020-07-02 18:36:57: ERROR[Main]: generateImage(): Could not load image "score_bar_empty.png" while building texture; Creating a dummy image
+2020-07-02 18:36:57: ERROR[Main]: generateImage(): Could not load image "score_bar_full.png" while building texture; Creating a dummy image
+2020-07-02 18:37:07: ACTION[Server]: divinium digs default:sand at (-16,3,-5)
+2020-07-02 18:37:09: ACTION[Server]: divinium digs default:sand at (-18,3,-4)
+2020-07-02 18:38:55: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:38:55: ACTION[Main]: Server: Shutting down
+2020-07-02 18:39:03: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:39:03: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:39:03: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:39:06: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:39:06: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:39:06: ERROR[Main]: generateImage(): Could not load image "score_background.png" while building texture; Creating a dummy image
+2020-07-02 18:39:06: ERROR[Main]: generateImage(): Could not load image "score_bar_empty.png" while building texture; Creating a dummy image
+2020-07-02 18:39:06: ERROR[Main]: generateImage(): Could not load image "score_bar_full.png" while building texture; Creating a dummy image
+2020-07-02 18:43:34: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:43:34: ACTION[Main]: Server: Shutting down
+2020-07-02 18:43:35: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:43:35: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:43:35: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:43:38: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:43:38: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:45:25: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:45:26: ACTION[Main]: Server: Shutting down
+2020-07-02 18:45:28: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:45:28: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:45:28: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:45:30: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:45:30: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:46:14: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:46:14: ACTION[Main]: Server: Shutting down
+2020-07-02 18:46:16: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:46:16: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:46:16: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:46:18: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:46:18: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:46:35: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:46:35: ACTION[Main]: Server: Shutting down
+2020-07-02 18:46:36: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:46:36: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:46:36: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:46:39: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:46:39: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:48:35: ACTION[Main]: Server: Shutting down
+2020-07-02 18:51:51: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:51:51: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:51:51: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:51:51: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:51:51: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:51:57: ACTION[Server]: divinium digs default:sand at (-24,3,-2)
+2020-07-02 18:52:32: ACTION[Main]: Server: Shutting down
+2020-07-02 18:52:33: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:52:33: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:52:33: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:52:35: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:52:35: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:53:42: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:53:42: ACTION[Main]: Server: Shutting down
+2020-07-02 18:53:43: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:53:43: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:53:43: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:53:46: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:53:46: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 18:53:51: ACTION[Server]: divinium leaves game. List of players: 
+2020-07-02 18:53:51: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-07-02 18:55:05: [Main]: Automatically selecting world at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:55:10: WARNING[Main]: Undeclared global variable "player_name" accessed at ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1
+2020-07-02 18:55:10: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-02 18:55:10: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: attempt to index local 'player' (a nil value)
+2020-07-02 18:55:10: ERROR[Main]: stack traceback:
+2020-07-02 18:55:10: ERROR[Main]: 	...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:2: in main chunk
+2020-07-02 18:55:10: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-02 18:55:10: ACTION[Main]: Server: Shutting down
+2020-07-02 18:59:20: ERROR[Main]: ModError: Failed to load and run script from C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:
+2020-07-02 18:59:20: ERROR[Main]: ...ique\minetest-5.1.0-win64\bin\..\mods\hud_score\init.lua:1: unexpected symbol near ')'
+2020-07-02 18:59:20: ERROR[Main]: Voir debug.txt pour plus d'informations.
+2020-07-02 18:59:20: ACTION[Main]: Server: Shutting down
+2020-07-02 18:59:54: ACTION[Main]: Yeah experimental loaded mods.
+2020-07-02 18:59:54: ACTION[Main]: World at [C:\Users\esain\Desktop\course-cubique\minetest-5.1.0-win64\bin\..\worlds\Unnamed]
+2020-07-02 18:59:54: ACTION[Main]: Server for gameid="minimal" listening on 0.0.0.0:30000.
+2020-07-02 18:59:55: ACTION[Server]: divinium [127.0.0.1] joins game. 
+2020-07-02 18:59:55: ACTION[Server]: divinium joins game. List of players: divinium
+2020-07-02 19:00:02: ACTION[Server]: divinium digs default:sand at (-22,3,1)
+2020-07-02 19:00:03: ACTION[Server]: divinium digs default:sand at (-23,3,1)
+2020-07-02 19:00:06: ACTION[Server]: divinium digs default:sand at (-22,3,-1)
+2020-07-02 19:00:07: ACTION[Server]: divinium digs default:sand at (-23,3,-1)
+2020-07-02 19:00:08: ACTION[Server]: divinium digs default:sand at (-22,2,-1)
+2020-07-02 19:00:09: ACTION[Server]: divinium digs default:sand at (-23,2,-1)
+2020-07-02 19:00:11: ACTION[Server]: divinium digs default:sand at (-22,3,0)
+2020-07-02 19:00:12: ACTION[Server]: divinium digs default:sand at (-22,2,0)
+2020-07-02 19:00:13: ACTION[Server]: divinium digs default:sand at (-23,3,0)
+2020-07-02 19:00:13: ACTION[Server]: divinium digs default:sand at (-23,2,0)
+2020-07-02 19:00:15: ACTION[Server]: divinium digs default:sand at (-24,3,-1)
+2020-07-02 19:00:16: ACTION[Server]: divinium digs default:sand at (-22,3,-2)
+2020-07-02 19:00:17: ACTION[Server]: divinium digs default:sand at (-23,3,-2)
+2020-07-02 19:00:18: ACTION[Server]: divinium digs default:sand at (-23,2,-2)
+2020-07-02 19:00:19: ACTION[Server]: divinium digs default:sand at (-24,2,-2)
+2020-07-02 19:00:21: ACTION[Server]: divinium digs default:sand at (-22,2,-2)
+2020-07-02 19:00:22: ACTION[Server]: divinium digs default:sand at (-22,2,-3)
+2020-07-02 19:00:23: ACTION[Server]: divinium digs default:sand at (-22,2,-3)
+2020-07-02 19:25:09: ACTION[Main]: Server: Shutting down
