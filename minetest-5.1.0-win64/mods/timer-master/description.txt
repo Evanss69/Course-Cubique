@@ -1,1 +1,0 @@
-Internal functions that provide mods with a persistent Timer class.
