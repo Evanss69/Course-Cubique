@@ -1,0 +1,8 @@
+# Interval in seconds between position checking
+# The lesser it is, the more accurate it is but also the more resources demanding.
+poschangelib.check_interval (Check interval) float 0.3 0.05
+
+# Distance between two checks that is considered to be a teleportation and won't
+# compute interpolated positions between last known position and current position.
+# Set to 0 to disable checking.
+poschangelib.teleport_range (Teleport range) int 10 0
