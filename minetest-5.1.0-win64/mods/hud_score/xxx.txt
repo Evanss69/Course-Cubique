@@ -1,0 +1,9 @@
+local player = minetest.get_player_by_name("NOM_D_UTILISATEUR")
+local idx = player:hud_add({
+     hud_elem_type = "text",
+     position      = {x = 0.5, y = 0.1},
+     offset        = {x = 0,   y = 0},
+     text          = string.format("Score: %d", ICI_VARIABLE_SCORE),
+     alignment     = {x = 0, y = 0},  -- center aligned
+     scale         = {x = 100, y = 100}, -- covered later
+})
