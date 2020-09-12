@@ -9,7 +9,7 @@ local timerjeu = Timer(function(elapsed)
 minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 {
   description = "Déclenche le timer quand on marche dessus!",
-  tiles = {"^[colorize:#ffeb3b"},
+  tiles = {"blocs_timer_depart.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
@@ -31,7 +31,7 @@ end
 minetest.register_node(minetest.get_current_modname()..":bloc_fin",
 {
   description = "Arrête le timer quand on marche dessus!",
-  tiles = {"^[colorize:#ffeb3b"},
+  tiles = {"blocs_timer_arrivee.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
