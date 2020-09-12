@@ -39,6 +39,7 @@ local function fin_timer(player, pos, node, desc)
     minetest.chat_send_all('Temps écoulé: ')
     minetest.chat_send_all(timerjeu:get_elapsed())
     timerjeu:stop()
+    timerjeu:expire()
 end
 
 -- Ajout des écouteurs de chaque bloc
