@@ -14,9 +14,16 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fragile_normal_dis
 
 -- Fonction qui fait réapparaître un bloc du nom donné à proximité de la position donnée
 local function reapparition_bloc(pos, node_name)
-  -- Réappariton d'un bloc à une position aléatoire à proximité du bloc disparu
-  local pos = {x = pos.x + math.random(0,6) - 3, y = pos.y, z = pos.z + math.random(0,6) - 3}
-  minetest.set_node(pos, {name = node_name})
+  -- Positions des limites de la zone à "fouiller" pour des blocs libres
+  local pos1 = {x = pos.x + 3, y = pos.y, z = pos.z + 3}
+  local pos2 = {x = pos.x - 3, y = pos.y, z = pos.z - 3}
+  -- Table qui contient les blocs libres a proximité
+  local blocs_libres = minetest.find_nodes_in_area(pos1, pos2, "air")
+  -- Vérifie qu'au moins un bloc libre a été trouvé puis remplace l'un d'entre eux aléatoirement
+  if blocs_libres ~= nil then
+    pos = blocs_libres[math.random(#blocs_libres)]
+    minetest.set_node(pos, {name = node_name})
+  end
 end
 
 local nb_blocs = 1
