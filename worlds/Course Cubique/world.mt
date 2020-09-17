@@ -10,3 +10,4 @@ load_mod_blocs_timer = true
 load_mod_blocs_fragiles = true
 load_mod_timer = true
 server_announce = false
+load_mod_blocs_arene = true
