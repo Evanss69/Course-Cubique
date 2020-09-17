@@ -40,11 +40,11 @@ end
 -- Ajouter un effet quand un joueur marche sur le bloc
 poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfn", disparition_bloc, {'blocs_fragiles:bloc_fragile_normal'})
 
+-- Setter et Getter nombre de blocs sur lesquels le joueur est passé
 function set_nb_blocs(nb)
   return(nb_blocs)
 end
 
--- Retourne le nombre de blocs sur lesquels le joueur est passé
 function get_nb_blocs()
   return(nb_blocs)
 end
