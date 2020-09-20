@@ -1,10 +1,27 @@
--- Propriétés du timer
+
+--Propriétés du timer
 local timerjeu = Timer(function(elapsed)
-        print("fn3: ", elapsed)
-    end, {
-    interval = 300, -- Durée maximale du timer
-    repeats = false, -- Le timer prend fin quand il atteint la valeur interval
+  print("fn3: ", elapsed)
+end, {
+interval = 300, -- Durée maximale du timer
+repeats = false, -- Le timer prend fin quand il atteint la valeur interval
 })
+
+
+score=0
+
+function augmentation_score()
+  minetest.after(10,function()
+		if(timerjeu:is_active()) then
+		score=score+10
+    augmentation_score()
+		end
+  end	)
+	
+end
+	
+
+
 
 minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 {
@@ -15,6 +32,7 @@ minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 
 local function depart_timer(player, pos, node, desc)
     timerjeu:start()
+    augmentation_score()
 end
 
 minetest.register_node(minetest.get_current_modname()..":bloc_intervalle",
@@ -40,6 +58,8 @@ local function fin_timer(player, pos, node, desc)
     minetest.chat_send_all(timerjeu:get_elapsed())
     timerjeu:stop()
     timerjeu:expire()
+    minetest.chat_send_all("Ton score est :")
+    minetest.chat_send_all(score)
 end
 
 -- Ajout des écouteurs de chaque bloc
