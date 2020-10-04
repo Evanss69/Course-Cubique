@@ -1,4 +1,3 @@
-
 --Propriétés du timer
 local timerjeu = Timer(function(elapsed)
   print("fn3: ", elapsed)
@@ -6,6 +5,7 @@ end, {
 interval = 300, -- Durée maximale du timer
 repeats = false, -- Le timer prend fin quand il atteint la valeur interval
 })
+
 
 score=0
 
@@ -17,6 +17,7 @@ function augmentation_score(player)
     augmentation_score(player)
 		end
   end	)
+	
 end
 
 function creation_interface(player)
@@ -34,6 +35,7 @@ function creation_interface(player)
       scale     = { x = 1, y = 1},
       alignment = { x = 1, y = 0 },
      })
+  
     local hudtext= player:hud_add({
       hud_elem_type="text",
       text= score,
@@ -41,8 +43,13 @@ function creation_interface(player)
       offset    = {x = -100, y = 0},
       scale={x=400, y=400}
      })
-  end
+     
+  
+    
+  end 
+  
 end
+  
 
 minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 {
@@ -84,13 +91,13 @@ local function fin_timer(player, pos, node, desc)
     minetest.chat_send_all(timerjeu:get_elapsed())
     timerjeu:stop()
     timerjeu:expire()
-
+    
     minetest.chat_send_all("Ton score est :")
     minetest.chat_send_all(score)
-
+    
     player:hud_remove(0)
     player:hud_remove(1)
-
+    
 end
 
 
