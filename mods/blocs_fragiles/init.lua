@@ -3,8 +3,8 @@ blocs_fragiles = {}
 
 minetest.register_node(minetest.get_current_modname()..":bloc_fragile_normal",
 {
-  description = "Disparait après quelques secondes quand on marche dessus!",
-  tiles = {"^[colorize:#E58703"},
+  description = "Un bloc normal sans propriétés particulières.",
+  tiles = {"bloc_normal.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
@@ -13,7 +13,7 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fragile_normal_dis
   drawtype = glasslike,
   use_texture_alpha = true,
   description = "Ce bloc est en train de disparaitre!",
-  tiles = {"^[colorize:#E58703B3"},
+  tiles = {"bloc_normal_disp.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
@@ -86,8 +86,12 @@ poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfn", disparition
 poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfb", bond, {'blocs_fragiles:bloc_fragile_bond'})
 poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfg", disparition_bloc, {'blocs_fragiles:bloc_fragile_gliss'})
 
--- Getter nombre de blocs sur lesquels le joueur est passé
+-- Getter et Setter nombre de blocs sur lesquels le joueur est passé
 function blocs_fragiles.get_nb_blocs()
   return(nb_blocs)
+end
+
+function blocs_fragiles.set_nb_blocs(n)
+  nb_blocs=n
 end
 
