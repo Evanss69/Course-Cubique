@@ -72,10 +72,13 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fin",
 })
 
 local function fin_timer(player, pos, node, desc)
-  local temps = timerjeu:get_elapsed()
+  --Obternir le temps au 100e de seconde près
+  local temps = math.floor(timerjeu:get_elapsed()*100)/100
+  --Calcul du score
   local nb = blocs_fragiles.get_nb_blocs()
   local score_blocs = nb*100
   local score_total = score + score_blocs
+
   timerjeu:stop()
   timerjeu:expire()
   player:hud_remove(hudimage)
@@ -90,7 +93,7 @@ local function fin_timer(player, pos, node, desc)
   })
   local hudtextfin=player:hud_add({
     hud_elem_type="text",
-    text= "Temps : "..temps.."\nNombre de blocs passés : "..nb
+    text= "Temps : "..temps.." secondes \nNombre de blocs passés : "..nb
     .."\nScore total : "..score.." + "..score_blocs.." = "..score_total,
     position  = {x = 0.5, y = 0.5},
     offset    = {x = 0, y = -200},
