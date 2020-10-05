@@ -1,3 +1,6 @@
+-- Morceau de code nécessaire pour créer des fonctions accessibles depuis d'autres scripts
+blocs_fragiles = {}
+
 minetest.register_node(minetest.get_current_modname()..":bloc_fragile_normal",
 {
   description = "Disparait après quelques secondes quand on marche dessus!",
@@ -17,7 +20,7 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fragile_normal_dis
 minetest.register_node(minetest.get_current_modname()..":bloc_fragile_bond",
 {
   description = "Propulse le joueur en l'air quand on marche dessus!",
-  tiles = {"^[colorize:#05D210"},
+  tiles = {"bloc_bond.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
@@ -26,14 +29,14 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fragile_bond_disp"
   drawtype = glasslike,
   use_texture_alpha = true,
   description = "Ce bloc est en train de disparaitre!",
-  tiles = {"^[colorize:#05D2104D"},
+  tiles = {"bloc_bond_disp.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
 minetest.register_node(minetest.get_current_modname()..":bloc_fragile_gliss",
 {
   description = "Un bloc glissant!",
-  tiles = {"^[colorize:#07F4F8"},
+  tiles = {"bloc_glissant.png"},
   groups = {oddly_breakable_by_hand=1, slippery = 3},
 })
 
@@ -42,7 +45,7 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fragile_gliss_disp
   drawtype = glasslike,
   use_texture_alpha = true,
   description = "Ce bloc est en train de disparaitre!",
-  tiles = {"^[colorize:#07F4F84D"},
+  tiles = {"bloc_glissant_disp.png"},
   groups = {oddly_breakable_by_hand=1, slippery = 3},
 })
 
@@ -83,12 +86,8 @@ poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfn", disparition
 poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfb", bond, {'blocs_fragiles:bloc_fragile_bond'})
 poschangelib.add_player_walk_listener("blocs_fragiles:ecouteur_bfg", disparition_bloc, {'blocs_fragiles:bloc_fragile_gliss'})
 
--- Setter et Getter nombre de blocs sur lesquels le joueur est passé
-function set_nb_blocs(nb)
-  return(nb_blocs)
-end
-
-function get_nb_blocs()
+-- Getter nombre de blocs sur lesquels le joueur est passé
+function blocs_fragiles.get_nb_blocs()
   return(nb_blocs)
 end
 

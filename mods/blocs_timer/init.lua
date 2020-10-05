@@ -6,49 +6,37 @@ interval = 300, -- Durée maximale du timer
 repeats = false, -- Le timer prend fin quand il atteint la valeur interval
 })
 
-
-score=0
+score = 0
 
 function augmentation_score(player)
-  minetest.after(10,function()
+  minetest.after(5,function()
 		if(timerjeu:is_active()) then
-		score=score+10
+		score = score + 50
 		player:hud_change(1,"text",score)
     augmentation_score(player)
 		end
-  end	)
-	
+  end)
 end
 
 function creation_interface(player)
-
-
-  if(timerjeu:is_active()) then
-    minetest.chat_send_all("Alley pelo, c'est tipar !")
-  else
-    --Interface score
-    local hudimg=player:hud_add({
-      hud_elem_type = "image",
-      position  = {x = 0.8, y = 0.2},
-      offset    = {x = -220, y = 0},
-      text      = "panneau_score.png",
-      scale     = { x = 1, y = 1},
-      alignment = { x = 1, y = 0 },
-     })
-    local hudtext= player:hud_add({
-      hud_elem_type="text",
-      text= score,
-      position  = {x = 0.8, y = 0.2},
-      offset    = {x = -100, y = 0},
-      scale={x=400, y=400}
-     })
-     
-  
-    
-  end 
-  
+  --Interface score
+   hudimage=player:hud_add({
+    hud_elem_type = "image",
+    position  = {x = 0.9, y = 0.1},
+    offset    = {x = -100, y = 0},
+    text      = "panneau_score.png",
+    scale     = { x = 0.5, y = 0.5},
+    alignment = { x = 0, y = 0 },
+  })
+   hudtexte= player:hud_add({
+    hud_elem_type="text",
+    text= score,
+    position  = {x = 0.9, y = 0.1},
+    offset    = {x = -100, y = 0},
+    scale     = {x = 100, y = 100},
+    alignment = { x = 0, y = 0 },
+  })
 end
-  
 
 minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 {
@@ -58,13 +46,11 @@ minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 })
 
 local function depart_timer(player, pos, node, desc)
-
+  if(not timerjeu:is_active()) then
     creation_interface(player)
     timerjeu:start()
     augmentation_score(player)
-    
-    
-   
+  end
 end
 
 minetest.register_node(minetest.get_current_modname()..":bloc_intervalle",
@@ -86,17 +72,35 @@ minetest.register_node(minetest.get_current_modname()..":bloc_fin",
 })
 
 local function fin_timer(player, pos, node, desc)
-    minetest.chat_send_all('Temps écoulé: ')
-    minetest.chat_send_all(timerjeu:get_elapsed())
-    timerjeu:stop()
-    timerjeu:expire()
-    
-    minetest.chat_send_all("Ton score est :")
-    minetest.chat_send_all(score)
-    
-    player:hud_remove(0)
-    player:hud_remove(1)
-    
+  local temps = timerjeu:get_elapsed()
+  local nb = blocs_fragiles.get_nb_blocs()
+  local score_blocs = nb*100
+  local score_total = score + score_blocs
+  timerjeu:stop()
+  timerjeu:expire()
+  player:hud_remove(hudimage)
+  player:hud_remove(hudtexte)
+  local hudimgfin=player:hud_add({
+    hud_elem_type = "image",
+    position  = {x = 0.5, y = 0.5},
+    offset    = {x = 0, y = -200},
+    text      = "panneau_score.png",
+    scale     = { x = 1.5, y = 1.5},
+    alignment = { x = 0, y = 0 },
+  })
+  local hudtextfin=player:hud_add({
+    hud_elem_type="text",
+    text= "Temps : "..temps.."\nNombre de blocs passés : "..nb
+    .."\nScore total : "..score.." + "..score_blocs.." = "..score_total,
+    position  = {x = 0.5, y = 0.5},
+    offset    = {x = 0, y = -200},
+    scale     = {x = 100, y = 100},
+    alignment = { x = 0, y = 0 },
+  })
+  minetest.after(10,function()
+    player:hud_remove(hudimgfin)
+    player:hud_remove(hudtextfin)
+  end)
 end
 
 
