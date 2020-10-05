@@ -8,4 +8,6 @@ doc/
 fonts/
 games/
 locale/
-textures/
+textures
+worlds/
+worlds/Test/

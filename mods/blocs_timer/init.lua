@@ -1,20 +1,56 @@
--- Propriétés du timer
+--Propriétés du timer
 local timerjeu = Timer(function(elapsed)
-        print("fn3: ", elapsed)
-    end, {
-    interval = 300, -- Durée maximale du timer
-    repeats = false, -- Le timer prend fin quand il atteint la valeur interval
+  print("fn3: ", elapsed)
+end, {
+interval = 300, -- Durée maximale du timer
+repeats = false, -- Le timer prend fin quand il atteint la valeur interval
 })
+
+score = 0
+
+function augmentation_score(player)
+  minetest.after(5,function()
+		if(timerjeu:is_active()) then
+		score = score + 50
+		player:hud_change(1,"text",score)
+    augmentation_score(player)
+		end
+  end)
+end
+
+function creation_interface(player)
+  --Interface score
+   hudimage=player:hud_add({
+    hud_elem_type = "image",
+    position  = {x = 0.9, y = 0.1},
+    offset    = {x = -100, y = 0},
+    text      = "panneau_score.png",
+    scale     = { x = 0.5, y = 0.5},
+    alignment = { x = 0, y = 0 },
+  })
+   hudtexte= player:hud_add({
+    hud_elem_type="text",
+    text= score,
+    position  = {x = 0.9, y = 0.1},
+    offset    = {x = -100, y = 0},
+    scale     = {x = 100, y = 100},
+    alignment = { x = 0, y = 0 },
+  })
+end
 
 minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 {
   description = "Déclenche le timer quand on marche dessus!",
-  tiles = {"^[colorize:#ffeb3b"},
+  tiles = {"blocs_timer_depart.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
 local function depart_timer(player, pos, node, desc)
+  if(not timerjeu:is_active()) then
+    creation_interface(player)
     timerjeu:start()
+    augmentation_score(player)
+  end
 end
 
 minetest.register_node(minetest.get_current_modname()..":bloc_intervalle",
@@ -31,15 +67,43 @@ end
 minetest.register_node(minetest.get_current_modname()..":bloc_fin",
 {
   description = "Arrête le timer quand on marche dessus!",
-  tiles = {"^[colorize:#ffeb3b"},
+  tiles = {"blocs_timer_arrivee.png"},
   groups = {oddly_breakable_by_hand=1,},
 })
 
 local function fin_timer(player, pos, node, desc)
-    minetest.chat_send_all('Temps écoulé: ')
-    minetest.chat_send_all(timerjeu:get_elapsed())
-    timerjeu:stop()
+  local temps = timerjeu:get_elapsed()
+  local nb = blocs_fragiles.get_nb_blocs()
+  local score_blocs = nb*100
+  local score_total = score + score_blocs
+  timerjeu:stop()
+  timerjeu:expire()
+  player:hud_remove(hudimage)
+  player:hud_remove(hudtexte)
+  local hudimgfin=player:hud_add({
+    hud_elem_type = "image",
+    position  = {x = 0.5, y = 0.5},
+    offset    = {x = 0, y = -200},
+    text      = "panneau_score.png",
+    scale     = { x = 1.5, y = 1.5},
+    alignment = { x = 0, y = 0 },
+  })
+  local hudtextfin=player:hud_add({
+    hud_elem_type="text",
+    text= "Temps : "..temps.."\nNombre de blocs passés : "..nb
+    .."\nScore total : "..score.." + "..score_blocs.." = "..score_total,
+    position  = {x = 0.5, y = 0.5},
+    offset    = {x = 0, y = -200},
+    scale     = {x = 100, y = 100},
+    alignment = { x = 0, y = 0 },
+  })
+  minetest.after(10,function()
+    player:hud_remove(hudimgfin)
+    player:hud_remove(hudtextfin)
+  end)
 end
+
+
 
 -- Ajout des écouteurs de chaque bloc
 poschangelib.add_player_walk_listener('blocs_boost:ecouteur_depart', depart_timer, {'blocs_timer:bloc_depart'})
