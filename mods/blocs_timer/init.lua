@@ -35,7 +35,6 @@ function creation_interface(player)
       scale     = { x = 1, y = 1},
       alignment = { x = 1, y = 0 },
      })
-  
     local hudtext= player:hud_add({
       hud_elem_type="text",
       text= score,
