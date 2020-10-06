@@ -12,13 +12,6 @@ function reset_phys(player)
   })
 end
 
--- Bloc de boost de vitesse
-minetest.register_node(minetest.get_current_modname()..":boost_vitesse",
-{
-  description = "Donne un boost de vitesse quand on marche dessus!",
-  tiles = {"^[colorize:#802BB1"},
-  groups = {oddly_breakable_by_hand=1,},
-})
 
 local function boost_vitesse(player, pos, node, desc)
   player:set_physics_override({
@@ -61,3 +54,4 @@ end
 poschangelib.add_player_walk_listener('blocs_boost:ecouteur_grav', boost_grav, {'blocs_boost:boost_grav'})
 poschangelib.add_player_walk_listener('blocs_boost:ecouteur_saut', boost_saut, {'blocs_boost:boost_saut'})
 poschangelib.add_player_walk_listener('blocs_boost:ecouteur_vitesse', boost_vitesse, {'blocs_boost:boost_vitesse'})
+

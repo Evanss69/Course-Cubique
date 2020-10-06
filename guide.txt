@@ -1,0 +1,19 @@
+Mode d'emploi commun aux deux jeux :
+
+Se déplacer : touches directionnelles
+S'orienter : placer la souris à l'endroit où on veut aller
+Sauter : touche espace
+Ouvrir l'inventaire : touche I
+Naviguer entre les blocs : touche B et N
+Quitter le jeu : touche échap
+
+Pour placer les blocs :
+Click gauche pour casser les blocs
+Click droit pour les placer
+Squareblock :
+
+Objectif : terminer le parcours le plus rapidement possible
+
+Splashblock : 
+
+Objectif : Tenir le plus longtemps possible sur les plateformes

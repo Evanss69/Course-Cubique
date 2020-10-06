@@ -1,4 +1,3 @@
-
 --Propriétés du timer
 local timerjeu2 = Timer(function(elapsed)
   print("fn3: ", elapsed)
