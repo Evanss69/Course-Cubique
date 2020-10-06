@@ -48,6 +48,8 @@ minetest.register_node(minetest.get_current_modname()..":bloc_depart",
 local function depart_timer(player, pos, node, desc)
   if(not timerjeu:is_active()) then
     player:set_pos({x= 0.0, y=30.0, z=14})
+    -- Fait regarder le joueur vers le bas
+    player:set_look_vertical(math.pi)
     player:set_physics_override({
       gravity = 0.2, 
     })
@@ -56,7 +58,7 @@ local function depart_timer(player, pos, node, desc)
     augmentation_score(player)
     minetest.after(3, function()
       player:set_physics_override({
-        gravity = 1, 
+        gravity = 1,
       })
     end)
   end
@@ -114,7 +116,10 @@ local function fin_timer(player, pos, node, desc)
     minetest.after(10,function()
       player:hud_remove(hudimgfin)
       player:hud_remove(hudtextfin)
+      --Réapparition du joueur
       player:setpos({x=0, y=5, z=0})
+      player:set_look_horizontal(0)
+      player:set_look_vertical(0)
     end)
   end
 end
