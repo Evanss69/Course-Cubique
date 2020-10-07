@@ -19,7 +19,12 @@ local function boost_vitesse(player, pos, node, desc)
     minetest.after(dur_vitesse, reset_phys, player) -- Fin du boost après n secondes
   })
 end
-
+minetest.register_node(minetest.get_current_modname()..":boost_vitesse",
+{
+  description = "Donne un boost de vitesse quand on marche dessus!",
+  tiles = {"^[colorize:#00FF00"},
+  groups = {oddly_breakable_by_hand=1,},
+})
 -- Bloc de boost de saut
 minetest.register_node(minetest.get_current_modname()..":boost_saut",
 {

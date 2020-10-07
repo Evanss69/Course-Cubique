@@ -1,0 +1,13 @@
+creative_mode = true
+auth_backend = sqlite3
+player_backend = sqlite3
+gameid = minetest
+enable_damage = true
+backend = sqlite3
+load_mod_superflat = true
+load_mod_poschangelib = true
+load_mod_blocs_timer = true
+load_mod_blocs_arene = true
+load_mod_blocs_boost = true
+load_mod_timer = true
+server_announce = false
