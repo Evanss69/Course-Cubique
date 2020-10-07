@@ -12,7 +12,13 @@ function reset_phys(player)
   })
 end
 
-
+-- Bloc de boost de vitesse
+minetest.register_node(minetest.get_current_modname()..":boost_vitesse",
+{
+  description = "Donne un boost de vitesse quand on marche dessus!",
+  tiles = {"^[colorize:#378B93"},
+  groups = {oddly_breakable_by_hand=1,},
+})
 local function boost_vitesse(player, pos, node, desc)
   player:set_physics_override({
     speed = 3.0, -- Valeur du multiplicateur de vitesse
